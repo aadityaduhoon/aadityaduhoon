@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900" alt="Working at computer GIF" />
+ 
 </p>
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;font-weight: 400; color: #888;font-style: italic;">
@@ -12,8 +12,7 @@
 
 <br>
 
-* 🌍 Based in Solan, HP, India
-* 🖥️ Portfolio: [Your Portfolio Link Here]()
+* 🌍 Pursing BTech In CSE from JUIT, Solan, HP, India
 * ✉️ Reach me: [aadityaduhoon053@gmail.com](mailto:aadityaduhoon053@gmail.com)
 * 💼 Currently exploring ML deployment, prompt engineering, and cybersecurity
 * 👨‍💻 Recently worked on: E-Commerce & Fintech Pattern Detection, Bilingual Translation Model
@@ -66,7 +65,7 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityaduhoon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaduhoon&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="Top Languages" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityaduhoon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaduhoon&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="Top Languages" width="400"/>
+</p>
