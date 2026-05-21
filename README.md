@@ -66,6 +66,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aadityaduhoon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaduhoon&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadityaduhoon&theme=dracula" alt="Profile Summary Card" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadityaduhoon&theme=dracula" alt="Languages Card" />
 </p>
